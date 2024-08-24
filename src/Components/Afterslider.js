@@ -17,7 +17,7 @@ const Afterslider = () => {
             <a href=""><img src={mmmtu} alt="logo" /></a> {/*first */}
             </div>
             
-            <div className="flex flex-row items-center but-mob w-full justify-between">
+            <div className="items-center but-mob w-full justify-between">
                  <a href="" className="flex-shrink-0">
                     <img src={mmmtu} alt="logo"  /> {/* Adjust size if needed */}
                     </a>
