@@ -21,9 +21,6 @@ const Afterslider = () => {
                  <a href="" className="flex-shrink-0">
                     <img src={mmmtu} alt="logo"  /> {/* Adjust size if needed */}
                     </a>
-                    {/* <IconButton aria-label="Navbar" size="large" className="ml-auto text-3xl">
-                        <DensityMediumIcon className="bg-white shadow text-[#f6931d]" />
-                        </IconButton> */}
                     <Navdrop />
              </div>
 
