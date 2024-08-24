@@ -219,7 +219,7 @@ p{
 
 @media only screen and (max-width: 767px) {
   .navbar{
-    display: none;
+    display: none !important;
   }
   .but-mob{
     display: flex;
